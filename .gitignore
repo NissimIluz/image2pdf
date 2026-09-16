@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+build/
+dist/
+release/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+.private-screenshots/
